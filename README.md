@@ -9,5 +9,5 @@ Please refer to the link: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=
 
 This project is a part of the above paper. Please cite it if you wish to distribute or work further.
 
-DOI : https://zenodo.org/badge/latestdoi/18495/ab93/SIFCM
+DOI : http://dx.doi.org/10.5281/zenodo.31303
 
